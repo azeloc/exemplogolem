@@ -1,0 +1,11 @@
+name: 04_exemplo_golem
+title:
+username:
+account: exemplosuzano
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5515165
+bundleId: 5510579
+url: https://exemplosuzano.shinyapps.io/04_exemplo_golem/
+when: 1643208045.01085
+lastSyncTime: 1643208045.01085
